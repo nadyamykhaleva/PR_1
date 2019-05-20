@@ -1,2 +1,3 @@
  New file.
  Cange 1
+ Cange 2 in branch1
